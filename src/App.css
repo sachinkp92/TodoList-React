@@ -1,0 +1,14 @@
+body {
+  background-color: lightgray;
+}
+
+.main-container {
+  max-width: 900px;
+  width: 80%;
+  margin: auto;
+}
+
+.todo-container {
+  padding: 0;
+  margin: 0;
+}
